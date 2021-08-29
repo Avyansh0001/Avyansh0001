@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avyansh0001" alt="avyansh0001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/avalanche072" target="blank"><img src="https://img.shields.io/twitter/follow/avalanche072?logo=twitter&style=for-the-badge" alt="avalanche072" /></a> </p>
+<p align="left"> <a href="https://twitter.com/avyanshralph" target="blank"><img src="https://img.shields.io/twitter/follow/avalanche072?logo=twitter&style=for-the-badge" alt="avyanshralph" /></a> </p>
 
 - 🔭 I’m currently working on [Water](https://github.com/Avyansh0001/water)
 
