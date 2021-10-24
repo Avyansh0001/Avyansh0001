@@ -68,6 +68,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avyansh0001&" alt="avyansh0001" /></p>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/745308305160667137)](https://discord.com/users/745308305160667137)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/884824315399397396)](https://discord.com/users/884824315399397396)
 
 
