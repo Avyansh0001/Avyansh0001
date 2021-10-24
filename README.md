@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avyansh0001" alt="avyansh0001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/avyanshralph" target="blank"><img src="https://img.shields.io/twitter/follow/avalanche072?logo=twitter&style=for-the-badge" alt="avyanshralph" /></a> </p>
+<p align="left"> <a href="https://twitter.com/avyanshralph" target="blank"><img src="https://img.shields.io/twitter/follow/avyanshralph?logo=twitter&style=for-the-badge" alt="avyanshralph" /></a> </p>
 
 - 🔭 I’m currently working on [Water](https://github.com/Avyansh0001/water)
 
@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [avyanshralph.glitch.me](avyanshralph.xyz)
+- 👨‍💻 All of my projects are available at [avyanshralph.glitch.me](avyanshralph.glitch.me)
 
-- 📝 I regularly write articles on [avyanshralph.glitch.me](blogs.avyanshralph.xyz)
+- 📝 I regularly write articles on [avyanshralph.glitch.me](avyanshralph.glitch.me)
 
 - 💬 Ask me about **How I am making this**
 
@@ -66,8 +66,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avyansh0001&show_icons=true&locale=en" alt="avyansh0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avyansh0001&" alt="avyansh0001" /></p>
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/884824315399397396)](https://discord.com/users/884824315399397396)
-
-
